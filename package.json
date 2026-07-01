@@ -12,6 +12,7 @@
     "async-mutex": "^0.5.0",
     "axios": "^1.6.2",
     "futoin-hkdf": "^1.5.3",
+    "libsignal": "github:nickolasfisher/libsignal-node",
     "lodash": "^4.17.21",
     "node-cache": "^5.1.2",
     "pino": "^9.5.0",
